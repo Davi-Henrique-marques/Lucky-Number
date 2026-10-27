@@ -1,5 +1,5 @@
 <h1>Oi, como vai?</h1>
-<<<<<<< HEAD
+
 <h2>Esse é meu primeiro README criado para aprender</h2>
 =======
 <p>Eu me chamo Davi e tenho 15 anos, <br>
